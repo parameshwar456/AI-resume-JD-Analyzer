@@ -33,3 +33,44 @@ A comprehensive AI-powered resume analyzer built entirely with **Python**, **Str
 ```bash
 git clone https://github.com/yourusername/ai-resume-analyzer-ml.git
 cd ai-resume-analyzer-ml
+
+
+# Setup Instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/USERNAME/REPOSITORY.git
+cd REPOSITORY
+```
+
+2. Create a virtual environment:
+
+**Windows**
+```bash
+python -m venv venv
+```
+
+3. Activate the virtual environment:
+
+**Command Prompt**
+```bash
+venv\Scripts\activate
+```
+
+**PowerShell**
+```powershell
+.\venv\Scripts\Activate.ps1
+```
+
+4. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+5. Run the project:
+
+```bash
+python app.py
+```
